@@ -1,2 +1,2 @@
 Fake Jagran
-Using Multinomial Naive Bayes algorithm,this code is helpful in detecting fake news
+Using Multinomial Naive Bayes algorithm.This code is helpful in classifying different news tags such as sports(cricket,hockey,etc),politics...
